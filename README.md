@@ -1,7 +1,5 @@
 # Career Conversations
 
-Live demo: https://huggingface.co/spaces/prabhnosingh/career_conversations
-
 **Project:** A conversational chatbot that represents Prabhnoor Singh and answers questions about his career, skills, and experience.
 
 **Live Demo:** https://huggingface.co/spaces/prabhnosingh/career_conversations
