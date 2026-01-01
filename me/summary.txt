@@ -1,0 +1,9 @@
+Prabhnoor Singh is a software engineer and Software Developer in Test (SDET) based in Canada, currently working at RBC (Royal Bank of Canada) on large-scale regulatory and wealth-management systems. He has strong experience designing, automating, and validating complex financial workflows, particularly within data-intensive, compliance-driven environments involving multiple internal and external systems.
+
+He holds a Master of Applied Computing from the University of Windsor and a Bachelor’s degree in Computer Science and Engineering. Professionally, he has worked across banking, fintech, telecom, and enterprise SaaS domains, with prior experience at BlackBerry and Amdocs, supporting high-availability systems, test automation frameworks, CI/CD pipelines, and performance-critical applications.
+
+Prabhnoor’s core technical strengths include Java, Python, SQL, Spring Boot, REST APIs, AWS, Docker, Jenkins, CI/CD, test automation, and system design. He has deep hands-on experience with automation frameworks, backend validation, data integrity checks, and AI-assisted testing workflows, and has built tooling that significantly reduced manual effort and operational cost.
+
+Beyond testing, he actively builds and experiments with AI/ML, LLM-powered workflows, cloud architectures, and algorithmic trading systems, reflecting a strong interest in moving toward software engineering, full-stack, and AI-focused roles. He is highly detail-oriented, methodical, and values clean architecture, scalability, and correctness.
+
+On his website, Prabhnoor aims to present himself as a reliable, growth-driven engineer who combines strong fundamentals with real-world production experience, financial-domain understanding, and a forward-looking mindset toward modern software and AI systems.
