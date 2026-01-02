@@ -1,6 +1,12 @@
-# Career Conversations
+---
+title: career_conversations
+app_file: app.py
+sdk: gradio
+sdk_version: 5.49.1
+---
 
-Live demo: https://huggingface.co/spaces/prabhnosingh/career_conversations
+
+# Career Conversations
 
 **Project:** A conversational chatbot that represents Prabhnoor Singh and answers questions about his career, skills, and experience.
 
