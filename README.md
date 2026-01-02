@@ -19,12 +19,12 @@
 - It can ask users for an email address and record contact details via a simple webhook (used to capture interest).
 - The chat is interactive and aims to be professional and informative—good for potential clients or employers.
 
-**How it works (short):**
+**How it works:**
 - On startup the app reads `me/summary.txt` and `me/linkedin.pdf` to build context.
 - The app uses the OpenAI chat completions API with tool-calling enabled. Tool calls are handled locally (for example to record emails or unknown questions).
 - `gr.ChatInterface` launches a lightweight web UI for conversations.
 
-**Run locally (quick):**
+**Run locally:**
 ```bash
 python -m pip install -r requirements.txt
 python app.py
