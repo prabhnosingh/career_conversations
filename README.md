@@ -2,10 +2,10 @@
 title: career_conversations
 app_file: app.py
 sdk: gradio
-sdk_version: 5.49.1
+sdk_version: 5.49.1 
 ---
 
-
+ 
 # Career Conversations
 
 **Project:** A conversational chatbot that represents Prabhnoor Singh and answers questions about his career, skills, and experience.
